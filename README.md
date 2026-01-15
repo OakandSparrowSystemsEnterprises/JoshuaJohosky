@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="johosky-stack-banner.png" alt="The Johosky Stack - 7 Pillars Banner" width="100%" />
+</div>
 
 # Joshua Johosky | Systems Architect
 
