@@ -1,4 +1,4 @@
-# Joshua Johosky | Systems Architect
+# Oak and Sparrow Systems Architect
 
 **"The Architect of the Future is the one who can bridge the gap between theoretical symbolic logic and real-world infrastructure."**
 
