@@ -2,7 +2,7 @@
 
 **"The Architect of the Future is the one who can bridge the gap between theoretical symbolic logic and real-world infrastructure."**
 
-I specialize in building high-fidelity frameworks that navigate the intersection of human-AI transition, regional economic sovereignty, and advanced physical logistics. My work represents a twenty-year convergence of cognitive mapping and systems engineering, reframing neurodivergent cognitive architectures as strategic systems assets.
+We specialize in building high-fidelity frameworks that navigate the intersections of human-AI transition, regional economic sovereignty, and advanced physical logistics. Our work represents a twenty-year convergence of cognitive mapping and systems engineering, reframing neurodivergent architectures as strategic systems assets.
 
 ### Why the Stack?
 These seven pillars form an interconnected framework for navigating the human-AI transition — from sovereign economics to production-grade predictive engines. This is not theoretical; it's battle-tested, deployed live with **92% precision** on market flows over the most recent 60-day hardening cycle.
@@ -20,7 +20,7 @@ These seven pillars form an interconnected framework for navigating the human-AI
 | **Operational Scaling** | [CA-Life-Simulator](https://github.com/JoshuaJohosky/CA-Life-License-Simulator) | Adaptive GPT-training for **500+ agent** organizations.                             |
 
 ## 🛰️ Technical Philosophy: The Safe Harbor Protocol
-I operate under a "Safe Harbor" protocol, maintaining a clear distinction between **Public Strategic Signals** (documentation, whitepapers, and frameworks) and **Proprietary Logic Engines** (manifold math, private databases, and experimental code). This ensures intellectual property protection while providing high-fidelity transparency to partners and stakeholders.
+We operate under a "Safe Harbor" protocol, maintaining a clear distinction between **Public Strategic Signals** (documentation, whitepapers, and frameworks) and **Proprietary Logic Engines** (manifold math, private databases, and experimental code). This ensures intellectual property protection while providing high-fidelity transparency to partners and stakeholders.
 
 ## 📬 Connect for High-Stakes Integration
 **Lead Architect:** Joshua Johosky  
